@@ -1,2 +1,2 @@
 # House-Price-Analysis
-House price analysis for King County
+This repo contains a house price analysis project for King County in Seattle, which includes training and comparison of multiple machine learning models.
